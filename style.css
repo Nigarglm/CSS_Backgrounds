@@ -1,0 +1,157 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+main section.first{
+    background-color: #2F1893;
+    padding: 100px 305px 96px 315px;
+    height: 643px;
+}
+
+main section.first h2{
+    font-family: 'DM Sans';
+    font-size: 58px;
+    color: #fff;
+    width: 780px;
+}
+
+main section.first label{
+    font-family: 'DM Sans';
+    font-size: 14px;
+    color: #fff;
+}
+
+main section.first div.div1{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: url(https://s3-alpha-sig.figma.com/img/52f4/8851/823c044130bb9c6a45382f0ac4b4cc12?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=eTYL69JDcA79RUckUhGG~dqk5QJy5YjKfPgF7mbCS--RoscEU~4VWLqPFx2AeGMYRQIIkWcSsAjNKYOPfKjWqiZtOLkExP4vT-YlGLJeV8eZGoUd3fWI2ThSmE7VChKcnRhN-yeVsG31zKuwpAa1Sk4ewUzRphrMfiaa0BD8MIZg5zQ~RwGFa~nzZWBbxajBGCVRpsJJ~Pffuk-rcHQPxcP~XuHq9tVlid-zBSB7nbJnrkfFL6paaFQZISD5e16DnO2oz53U4kmaPACtvBGe0wl5IbT3Sq0XHR1G6ACtgxwkn0cSC9UtuVmzVHlp0dzRn3WCvL1SFB2rPpbwdVFcWA__);
+    background-size: cover;
+    margin-top: 150px;
+}
+
+main div.main{
+    display: flex;
+}
+
+main div.div2{
+    margin-top: 150px;
+    margin-left: 24px;
+}
+
+main p{
+    font-family: 'DM Sans';
+    font-size: 16px;
+    margin-top: 10px;
+    color: #fff;
+}
+
+main ul{
+    display: flex;
+    margin-top: 20px;
+}
+
+main ul li:not(:first-child){
+    margin-left: 20px;
+}
+
+main ul li a{
+    font-size: 18px;
+    color: #fff;
+}
+
+main .second{
+    padding: 70px 315px;
+}
+
+main .second h3{
+    color: #1E0E62;
+    font-family: 'DM Sans';
+    font-size: 42px;
+}
+
+main .second p{
+    color: #15143966;
+    font-family: 'DM Sans';
+    font-size: 16px;
+}
+
+main .second h5{
+    color: #1E0E62;
+    font-family: 'DM Sans';
+    font-size: 22px;
+}
+
+main .second .img{
+    width: 770px;
+    height: 340px;
+    border-radius: 10px;
+    background: url(https://s3-alpha-sig.figma.com/img/6d1e/9a7a/6c8fe80620f8105ac4cf2ebc078e1dcd?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=EZ-ZL2-qPONbZYoCjo~IMU47pGjbfWfdIAhSZV916QNfUDJDYDvG5jfFppyfAgz9h~bZUtJmzRNv4nSJICv5KuwCAqcUDNAm5s8QEPzi9YSgTkqskZh3zRAgWwyu2~ZGjMFC1clE6ujKZ0cpaMr1f08vJemeMd21O1mdNQCPEte8YKjgNRVo~E5i9~Ue9wHOtLNOFcaINzqkE0UWTS-Pd3tAAxDzTt7zvmvLPuyV7jTSqWZHK-E9gte18PdCSf6ROoee3Z1kDojOuBC97s5L6KVFYyL1OC9m~YorVokxF3mCEXsdVlqdBM~1Knoko2VONG62kLGJKaYdRJiRh3S0dg__);
+    background-size:cover;
+    background-repeat: no-repeat;
+    margin-top: 42px;
+}
+
+main .second label{
+    font-family: 'DM Sans';
+    font-size: 14px;
+    color: #15143966;
+    margin-top: 20px;
+}
+
+main .second a{
+    color: #1E0E62;
+    font-family: 'DM Sans';
+    font-size: 18px;
+}
+
+.p1{
+    margin-top: 26px;
+}
+
+.p2{
+    margin-top: 32px;
+}
+
+.p3{
+    margin-top: 15px;
+}
+
+.p5{
+    margin-top: 30px;
+    color: #1E0E62;
+    font-family: 'DM Sans';
+    font-size: 18px;
+}
+
+.p7{
+    margin-top: 43px;
+    color: #1E0E62;
+    font-family: 'DM Sans';
+    font-size: 18px;
+}
+
+.firsth5{
+    margin-top: 61px;
+}
+
+.secondh5{
+    margin-top: 55.2px;
+}
+
+main div.a{
+    margin-top: 42px;
+}
+
