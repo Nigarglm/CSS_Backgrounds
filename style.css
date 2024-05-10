@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+header nav h2{
+    color: #1E0E62;
+    font-family: 'DM Sans';
+    font-size: 30px;
+    font-weight: 700;
+    margin-top: 40px;
+    margin-left: 115px;
+}
+
+header nav ul{
+    display: flex;
+    text-align: center;
+    margin-top: 50px;
+}
+
+header nav ul li{
+    margin-right: 40px;
+}
+
+header nav ul li a{
+    font-size: 16px;
+    color: #1E0E62;
+    font-family: 'DM Sans';
+}
+
+header nav div{
+    margin-top: 50px;
+    margin-right: 115px;
+}
+
+header nav div button{
+    border-radius: 20px;
+    border: 2px solid transparent;
+    font-family: 'DM Sans';
+    font-size: 16px;
+    width: 100px;
+    height: 40px;
+}
+
+header nav div .btn1{
+    color: #1E0E62;
+    background-color: #fff;
+}
+
+header nav div .btn2{
+    color: #fff;
+    background-color: #482BE7;
+}
