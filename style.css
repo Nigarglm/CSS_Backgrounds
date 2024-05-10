@@ -33,6 +33,7 @@ header nav ul{
     display: flex;
     text-align: center;
     margin-top: 50px;
+    margin-right: 115px;
 }
 
 header nav ul li{
@@ -45,25 +46,3 @@ header nav ul li a{
     font-family: 'DM Sans';
 }
 
-
-header nav button{
-    border-radius: 20px;
-    border: 2px solid transparent;
-    font-family: 'DM Sans';
-    font-size: 16px;
-    width: 100px;
-    height: 40px;
-    margin-top: 40px;
-}
-
-header nav .btn1{
-    color: #1E0E62;
-    background-color: #fff;
-}
-
-header nav .btn2{
-    color: #1E0E62;
-    background-color: #fff;
-    border-color: #EBEAED;
-    margin-right: 115px;
-}
