@@ -35,7 +35,7 @@ header nav ul{
     margin-top: 50px;
 }
 
-header nav ul li:not(:nth-child(3)){
+header nav ul li{
     margin-right: 40px;
 }
 
@@ -45,38 +45,14 @@ header nav ul li a{
     font-family: 'DM Sans';
 }
 
+header nav .ul2 li a{
+    color: #15143966;
+}
+
 header nav .ul2{
     margin-right: 115px;
 }
 
 header nav .ul1{
     margin-right: 150px;
-}
-
-header nav .ul1 form select{
-    border: none;
-    font-size: 16px;
-    color: #1E0E62;
-    font-family: 'DM Sans';
-}
-
-header nav .ul2 button{
-    border-radius: 20px;
-    border: 2px solid transparent;
-    font-family: 'DM Sans';
-    font-size: 16px;
-    width: 100px;
-    height: 40px;
-    margin-top: -20px;
-}
-
-header nav .ul2 .btn1{
-    color: #1E0E62;
-    background-color: #fff;
-}
-
-header nav .ul2 .btn2{
-    color: #1E0E62;
-    background-color: #fff;
-    border-color: #EBEAED;
 }
