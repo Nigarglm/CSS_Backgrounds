@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    background-image: url(https://s3-alpha-sig.figma.com/img/f7e8/f8e2/82f037bd55e52d4b954227648e8bf9ff?Expires=1716163200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SaXfy2OMiHb-SQ0GqCRFV9w-7VVjAJfeK9kAplWo0UjXBnM0d00483uRgOf-ayKHCv8kihtnZVyNJXeRMNA6ta7iA8IeLToA2RHBFmAmxRtTQr3JiykeykWafkWfIVlRwrppjJNOFM2uchdVkNXVF5Q24NEl64TOAzNeE8Lbd3onIa5-6kW2ilC38zlx-5kcRbZ20~SkwTiP9zB4oiZPiH3tYyJOI2nDxc4-s3L3fomRNHFYutxJU4Ctj7Ng0R~nLGBHNUJhhzEgO7SnqNfZ7oA4OGHqMxZx76natoobMIWNQv~dqRNlkYFDzE2elkHXEWkR0wgIlK7eGf~GXBbK8g__);
+    margin: 0 auto;
+    text-align: center;
+    height: 500px;
+}
+
+main h1{
+    font-family: 'DM Sans';
+    font-size: 58px;
+    color: #fff;
+    padding-top: 100px;
+}
+
+main p{
+    font-family: 'DM Sans';
+    font-size: 22px;
+    color: #fff;
+    margin-top: 30px;
+    width: 570px;
+    margin-left: 475px;
+}
+
+main button{
+    width: 270px;
+    height: 60px;
+    color: #fff;
+    background-color: #25DAC5;
+    font-family: 'DM Sans';
+    font-size: 20px;
+    border: 2px transparent;
+    border-radius: 30px;
+    margin-top: 50px;
+}
