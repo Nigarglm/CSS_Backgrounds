@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+}
+
+body{
+    background-color: #DFDDDD;
+}
+
+header nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1150px;
+    height: 85px;
+    margin: 50px 185px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+
+header nav h2{
+    color: #000000;
+    margin: 20px 1036px 20px 30px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Poppins';
+}
+
+header nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: -400px;
+    margin-right: 50px;
+}
+
+header nav ul li{
+    margin-right: 15px;
+}
+
+header nav ul li a{
+    color: #000000;
+    font-family: 'Poppins';
+}
+
+main{
+    width: 1150px;
+    height: 500px;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-image: url('./assets/images/Travel.png');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main h1{
+    font-family: 'Poppins';
+    font-size: 83px;
+    font-weight: 700;
+    width: 757px;
+    text-align: left;
+    color: #fff;
+}
+
+footer{
+    width: 1150px;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: 50px 185px;
+    display: flex;
+    justify-content: space-between;
+}
+
+footer div.div1{
+    margin-top: 20px;
+    margin-bottom: 45px;
+}
+
+footer h2{
+    color: #000000;
+    margin-left: 20px;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Poppins';
+}
+
+footer div.div1 p{
+    color: #B1B1B1;
+    font-family: 'Poppins';
+    font-size: 14px;
+    margin-left: 20px ;
+    margin-top: 20px;
+} 
+
+footer ul{
+    display: flex;
+    text-align: center;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+footer ul li:not(:first-child){
+    margin-left: 25px;
+}
+
+footer ul li a{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    font-size: 20px;
+    color: #fff;
+    background-color: #979797;
+}
+
+footer div.div2{
+    margin-top: 20px;
+    margin-bottom: 45px;
+    margin-right: 20px;
+}
+
+footer h3{
+    font-family: 'Poppins';
+    font-size: 16px;
+    font-weight: 400;
+    color: #101010;
+}
+
+footer div.div2 p{
+    font-family: 'Poppins';
+    font-size: 14px;
+    font-weight: 400px;
+    color: #101010;
+    width: 208px;
+    margin-top: 20px;
+}
+
+footer form{
+    margin-top: 10px;
+}
+
+footer form input{
+    width: 145px;
+    height: 43px;
+    border: 2px solid #979797;
+    border-radius: 10px;
+    color: #979797;
+    background-color: #fff;
+    font-family: 'Poppins';
+    font-size: 14px;
+}
+
+footer form button{
+    width: 98px;
+    height: 43px;
+    color: #fff;
+    background-color: #979797;
+    font-family: 'Poppins';
+    font-size: 14px;
+    border: 2px transparent;
+    border-radius: 10px;
+}
