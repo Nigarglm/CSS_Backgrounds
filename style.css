@@ -36,7 +36,7 @@ header nav ul{
 }
 
 header nav ul li{
-    margin-right: 40px;
+    margin-right: 33px;
 }
 
 header nav ul li a{
@@ -45,14 +45,25 @@ header nav ul li a{
     font-family: 'DM Sans';
 }
 
-header nav .ul2 li a{
-    color: #15143966;
+
+header nav button{
+    border-radius: 20px;
+    border: 2px solid transparent;
+    font-family: 'DM Sans';
+    font-size: 16px;
+    width: 100px;
+    height: 40px;
+    margin-top: 40px;
 }
 
-header nav .ul2{
+header nav .btn1{
+    color: #1E0E62;
+    background-color: #fff;
+}
+
+header nav .btn2{
+    color: #1E0E62;
+    background-color: #fff;
+    border-color: #EBEAED;
     margin-right: 115px;
-}
-
-header nav .ul1{
-    margin-right: 150px;
 }
